@@ -1,6 +1,6 @@
 .dialogs {
   display: grid;
-  grid-template-columns: 2fr 10fr;
+  grid-template-columns: 2fr 5fr;
 }
 
 .dialogsItems {
@@ -8,7 +8,7 @@
 }
 
 .dialogsItems .active {
-  color: green;
+  color: red;
 }
 
 .messages {
